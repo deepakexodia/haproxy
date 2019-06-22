@@ -1,1 +1,1 @@
-web: haproxy -f haproxy.cfg
+web: ./haproxy -f haproxy.cfg
